@@ -1,0 +1,147 @@
+study,planned_included,planned_reason,actual_included,actual_reason
+CO39303,True,included,True,included
+CO39611,True,included,True,included
+BO29554,True,included,False,"LSSE missing, LSLV missing"
+BO41423,True,included,False,LSLV missing
+BO42533,True,included,False,LSLV missing
+GO40290,True,included,False,LSLV missing
+WP44131,True,included,False,LSLV missing
+BH30071,False,approval missing,False,approval missing
+BN29739,False,approval missing,False,approval missing
+BN40703,False,approval missing,False,"LSLV missing, approval missing"
+BN42082,False,approval missing,False,"LSLV missing, approval missing"
+BN42083,False,approval missing,False,"LSLV missing, approval missing"
+BN43703,False,approval missing,False,"LSLV missing, approval missing"
+BN44619,False,approval missing,False,"LSSE missing, LSLV missing, approval missing"
+BO28984,False,approval missing,False,"LSLV missing, approval missing"
+BO39182,False,approval missing,False,approval missing
+BO39610,False,approval missing,False,"LSLV missing, approval missing"
+BO40336,False,approval missing,False,"LSLV missing, approval missing"
+BO40933,False,approval missing,False,approval missing
+BO41932,False,approval missing,False,"LSSE missing, LSLV missing, approval missing"
+BO42161,False,approval missing,False,"LSLV missing, approval missing"
+BO42162,False,approval missing,False,"LSLV missing, approval missing"
+BO42592,False,approval missing,False,"LSLV missing, approval missing"
+BO42863,False,approval missing,False,approval missing
+BO42864,False,approval missing,False,"LSLV missing, approval missing"
+BO44157,False,approval missing,False,"LSLV missing, approval missing"
+BP39054,False,"LSSE missing, approval missing",False,"LSSE missing, approval missing"
+BP39144,False,approval missing,False,"LSLV missing, approval missing"
+BP40087,False,approval missing,False,approval missing
+BP40234,False,approval missing,False,approval missing
+BP40657,False,approval missing,False,approval missing
+BP41054,False,approval missing,False,approval missing
+BP41628,False,approval missing,False,"LSSE missing, LSLV missing, approval missing"
+BP42573,False,approval missing,False,"LSLV missing, approval missing"
+BP43963,False,approval missing,False,"LSLV missing, approval missing"
+CA41705,False,approval missing,False,"LSLV missing, approval missing"
+CA42750,False,approval missing,False,"LSSE missing, LSLV missing, approval missing"
+CN41144,False,approval missing,False,"LSLV missing, approval missing"
+CN42097,False,approval missing,False,"LSLV missing, approval missing"
+CO39262,False,approval missing,False,approval missing
+CO40016,False,approval missing,False,approval missing
+CO40115,False,approval missing,False,"LSLV missing, approval missing"
+CO40151,False,"LSSE missing, approval missing",False,"LSSE missing, approval missing"
+CO41012,False,approval missing,False,approval missing
+CO41101,False,approval missing,False,approval missing
+CO41792,False,approval missing,False,approval missing
+CO42177,False,approval missing,False,approval missing
+CO43116,False,approval missing,False,approval missing
+CR44829,False,approval missing,False,"LSSE missing, LSLV missing, approval missing"
+GN40040,False,approval missing,False,approval missing
+GN41791,False,approval missing,False,"LSLV missing, approval missing"
+GO27983,False,approval missing,False,approval missing
+GO29089,False,approval missing,False,approval missing
+GO29781,False,approval missing,False,"LSLV missing, approval missing"
+GO30103,False,approval missing,False,"LSLV missing, approval missing"
+GO30140,False,approval missing,False,approval missing
+GO39733,False,approval missing,False,approval missing
+GO40516,False,approval missing,False,"LSLV missing, approval missing"
+GO41717,False,approval missing,False,"LSLV missing, approval missing"
+GO41767,False,approval missing,False,"LSLV missing, approval missing"
+GO41892,False,approval missing,False,"LSLV missing, approval missing"
+GO42144,False,approval missing,False,"LSLV missing, approval missing"
+GO42273,False,approval missing,False,"LSLV missing, approval missing"
+GO42661,False,approval missing,False,approval missing
+GO43104,False,approval missing,False,"LSLV missing, approval missing"
+GO43712,False,approval missing,False,"LSSE missing, approval missing"
+GO44096,False,approval missing,False,"LSSE missing, LSLV missing, approval missing"
+GP43365,False,approval missing,False,"LSLV missing, approval missing"
+GR40349,False,approval missing,False,approval missing
+GR40844,False,approval missing,False,approval missing
+GR41984,False,approval missing,False,approval missing
+GR41986,False,approval missing,False,approval missing
+GR41987,False,approval missing,False,approval missing
+GR42691,False,approval missing,False,approval missing
+GR43742,False,approval missing,False,approval missing
+GR44277,False,approval missing,False,"LSLV missing, approval missing"
+MA30143,False,approval missing,False,approval missing
+ML29755,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML29869,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML29986,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML40237,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML40600,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML40896,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML40908,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML41025,False,"FSSE missing, LSSE missing, LSLV missing",False,"FSSE missing, LSSE missing, LSLV missing"
+ML41086,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML41241,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML41813,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML42037,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML42071,False,approval missing,False,"LSLV missing, approval missing"
+ML42096,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML42224,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML42249,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML42439,False,approval missing,False,approval missing
+ML42904,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML42906,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+ML44030,False,approval missing,False,approval missing
+ML44739,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MN39158,False,approval missing,False,"LSLV missing, approval missing"
+MN39159,False,approval missing,False,"LSLV missing, approval missing"
+MN42928,False,approval missing,False,approval missing
+MN43964,False,approval missing,False,"LSLV missing, approval missing"
+MO29590,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO29777,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO29821,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO29872,False,approval missing,False,approval missing
+MO29983,False,approval missing,False,approval missing
+MO39082,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO39136,False,approval missing,False,approval missing
+MO39171,False,approval missing,False,approval missing
+MO39193,False,approval missing,False,approval missing
+MO39196,False,approval missing,False,approval missing
+MO39871,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO39872,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO39874,False,approval missing,False,approval missing
+MO40094,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO40118,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO40122,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO40299,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO40388,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO41084,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO41085,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO41205,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO42116,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO42319,False,approval missing,False,"LSLV missing, approval missing"
+MO42623,False,approval missing,False,"LSLV missing, approval missing"
+MO43308,False,"FSSE missing, LSSE missing, LSLV missing, approval missing",False,"FSSE missing, LSSE missing, LSLV missing, approval missing"
+MO43576,False,approval missing,False,approval missing
+MR41926,False,approval missing,False,approval missing
+MR43808,False,approval missing,False,"LSLV missing, approval missing"
+MX39795,False,approval missing,False,approval missing
+WA29748,False,approval missing,False,approval missing
+WA40404,False,approval missing,False,"LSSE missing, LSLV missing, approval missing"
+WA43380,False,approval missing,False,"LSLV missing, approval missing"
+WN42349,False,approval missing,False,"LSLV missing, approval missing"
+WO41554,False,approval missing,False,"LSLV missing, approval missing"
+WO41994,False,approval missing,False,"LSLV missing, approval missing"
+WO42017,False,approval missing,False,"LSLV missing, approval missing"
+WO42178,False,"LSSE missing, approval missing",False,"LSSE missing, LSLV missing, approval missing"
+WO42758,False,approval missing,False,"LSSE missing, LSLV missing, approval missing"
+WP43295,False,approval missing,False,"LSLV missing, approval missing"
+YO29449,False,approval missing,False,"LSLV missing, approval missing"
+YO39309,False,approval missing,False,"LSLV missing, approval missing"
+YO39609,False,approval missing,False,"LSLV missing, approval missing"
+YO40245,False,approval missing,False,approval missing
+YO42138,False,approval missing,False,"LSLV missing, approval missing"
